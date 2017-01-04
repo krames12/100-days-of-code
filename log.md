@@ -1,10 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 2, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Did some planning by forking the repo and thinking about what to work on through the duration.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I like to at least attempt to plan out a loose guide for what to do during any sort of journey or trip. I do have a mini-deadline on a personal project to update and a few other lists of things to possibly use as well. Updating my first public project, [PugCheck](http://pugcheck.com), so that it supports the newest World of Warcraft raid coming out in a couple of weeks is very high on that list. I am working towards becoming employed as a front end dev and I have a few other projects that I'd like to create for the purpose of learning new frameworks and ways of doing things and boosting up my portfolio a bit.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** No actual work done as of yet.
