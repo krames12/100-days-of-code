@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 2, 2017
+### Day 3: January 12, 2017
 
-**Today's Progress**: Did some planning by forking the repo and thinking about what to work on through the duration.
+**Today's Progress**: 
 
-**Thoughts:** I like to at least attempt to plan out a loose guide for what to do during any sort of journey or trip. I do have a mini-deadline on a personal project to update and a few other lists of things to possibly use as well. Updating my first public project, [PugCheck](http://pugcheck.com), so that it supports the newest World of Warcraft raid coming out in a couple of weeks is very high on that list. I am working towards becoming employed as a front end dev and I have a few other projects that I'd like to create for the purpose of learning new frameworks and ways of doing things and boosting up my portfolio a bit.
+**Thoughts**:
 
-**Link to work:** No actual work done as of yet.
+**Link to work:**
+
+### Day 2:  January 5, 2017
+
+**Today's Progress**: Realized that the data I was sending on `res.render('index', { info: data });` only sends it to the template engine and stops there. Changed that to be the currency types only and moved the API call to the front end.
+
+**Thoughts**: I have used NodeJS with Express and EJS previously so I feel like I should have known that it would not have gone through. With that being said, I wasn't exaclty sure if I wanted this to be a mostly front end application or if I wanted to re-render on submit. I decided on the mostly front end and now feel like I wasted a couple hours yesterday figuring all of those things out. Either way, it's a lesson learned that I won't soon forget. I would have liked to have gotten more done today however it just didn't happen.
+
+**Link to work:** ['convenient-currency' commit history](https://github.com/krames12/convenient-currency/commits/master)
 
 ### Day 1: January 4, 2017
 
@@ -16,10 +24,10 @@
 
 **Link to work:** ['convenient-currency' commit history](https://github.com/krames12/convenient-currency/commits/master)
 
-### Day 2:  January 5, 2017
+### Day 0: January 2, 2017
 
-**Today's Progress**: Realized that the data I was sending on `res.render('index', { info: data });` only sends it to the template engine and stops there. Changed that to be the currency types only and moved the API call to the front end.
+**Today's Progress**: Did some planning by forking the repo and thinking about what to work on through the duration.
 
-**Thoughts**: I have used NodeJS with Express and EJS previously so I feel like I should have known that it would not have gone through. With that being said, I wasn't exaclty sure if I wanted this to be a mostly front end application or if I wanted to re-render on submit. I decided on the mostly front end and now feel like I wasted a couple hours yesterday figuring all of those things out. Either way, it's a lesson learned that I won't soon forget. I would have liked to have gotten more done today however it just didn't happen.
+**Thoughts:** I like to at least attempt to plan out a loose guide for what to do during any sort of journey or trip. I do have a mini-deadline on a personal project to update and a few other lists of things to possibly use as well. Updating my first public project, [PugCheck](http://pugcheck.com), so that it supports the newest World of Warcraft raid coming out in a couple of weeks is very high on that list. I am working towards becoming employed as a front end dev and I have a few other projects that I'd like to create for the purpose of learning new frameworks and ways of doing things and boosting up my portfolio a bit.
 
-**Link to work:** ['convenient-currency' commit history](https://github.com/krames12/convenient-currency/commits/master)
+**Link to work:** No actual work done as of yet.
