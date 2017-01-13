@@ -6,7 +6,7 @@
 
 **Thoughts**: It's been a week since my Day 2 and that was due to my own laziness and also a very busy couple of days that helped the laziness along. Project wise, I wanted to seperate the page manipulation and the calculation as to not make the conversion as standalone as possible. I believe that everything is getting properly passed into the convert function, but I will need to do some more testing and extra logging to verify that tomorrow. I'm a tad confused because my implementation is exactly the same as my [FizzBuzz Project](https://github.com/krames12/learn-mocha-fizzbuzz), but it might be an issue with data either not being passed properly or my own mis-handling of the flow and calls.
 
-**Link to work:**
+**Link to work:** ['convenient-currency' commit history](https://github.com/krames12/convenient-currency/commits/master)
 
 ### Day 2:  January 5, 2017
 
