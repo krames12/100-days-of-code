@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 13, 2017
+
+**Today's Progress**: Finished all of the functionality necessary for the conversion process. Implemented SASS/SCSS compilation into the server start and am going to start most of the styling tomorrow. 
+
+**Thoughts**: I realized after a little longer than I'd like to admit that the DOM not changing was due to a lack of capitilization with innerHTML. Other than that today was mostly research in how to actually get SASS/SCSS to compile when starting the server and which implementation of SASS/SCSS to actually use. A little bit more styling could have been done, but I felt the research to be important enough to postpone some work there. I am debating, if I can find a very small resource for it, to add the flag of each currency to show either in the drop down or having it by the input/output boxes. 
+
+**Link to work:** ['convenient-currency' commit history](https://github.com/krames12/convenient-currency/commits/master)
+
 ### Day 3: January 12, 2017
 
 **Today's Progress**: I finished a skeleton layout of the currency conversion page and most of the functionality. The dynamic updating of the converted amount isn't quite working as intended though. Will hopefully finish the functionality of it tomorrow and make it look awesome as well.
