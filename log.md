@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 15, 2017
+
+**Today's Progress**: Learned how to make an animated hamburger menu as well as a responsive navigation. Also learned a bit of SASS implementation as well.
+
+**Thoughts**: I've been wanting to figure out how to actually animate a hamburger menu and make a responsive navigation that makes sense for a long while. And what better time than now, when I'm currently working on my friend and I's portfolio websites. I had some issues with padding, but I always tend to forget to use `box-sizing: border-box;` for whatever reason, so this was another reminder of it and hopefully it will actually stick. Overall though, i now have a reference for a base responsive menu and an understanding of how and why these things work. It was also about time I started using SASS anyway. I actually like the layout and the ability to use variables, and yes I do know that css variables are a thing that's becoming more and more supported by modern browsers.
+
+**Links to work:** [Animated Hamburger Icon](https://codepen.io/krames12/pen/QdKdoK) | [Responsive Navigation](https://codepen.io/krames12/pen/JERWaQ)
+
 ### Day 4: January 13, 2017
 
 **Today's Progress**: Finished all of the functionality necessary for the conversion process. Implemented SASS/SCSS compilation into the server start and am going to start most of the styling tomorrow. 
