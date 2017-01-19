@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 8, January 18, 2017
+
+**Today's Progress**: Worked on some styling for the currency project I've been working on as a starter project for this endeavour.
+
+**Thoughts**: I spent about 20 minutes wondering why my styles were going through on the second input, but not the first. It ended up being a mis-spelling of `container` the `<div>` above it. Wish I could have gotten a bit more done in that regard, but it did take a bit for me to get a bunch of other stuff working properly as well. Also thought of another idea for a project to help with remembering bits of info about people you network with for future reference. I haven't thought of all the details, but I'll be starting that after I finish the currency project.
+
 ## Day 7: January 17, 2017
 
 **Today's Progress**: Worked through part 6 of Wes Bos's [Javascript30](www.javascript30.com) dealing with flexbox and making an expandable panels.
