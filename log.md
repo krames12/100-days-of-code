@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 7: January 17, 2017
+
+**Today's Progress**: Worked through part 6 of Wes Bos's [Javascript30](www.javascript30.com) dealing with flexbox and making an expandable panels.
+
+**Thoughts**: I didn't have much time due to a few other commitments, but I at least was able to work through this particular part of JS30. It was something!
+
 ## Day 6: January 16, 2017
 
 **Today's Progress**: Went through part 5 of Wes Bos's [Javascript30](www.javascript30.com) course and worked on a on hover overylay for a "project" preview that can be used when displaying portfolio sites.
