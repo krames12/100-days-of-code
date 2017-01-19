@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 6: January 16, 2017
+
+**Today's Progress**: Went through part 5 of Wes Bos's [Javascript30](www.javascript30.com) course and worked on a on hover overylay for a "project" preview that can be used when displaying portfolio sites.
+
+**Links to work:** [Project Block: on hover overlay](https://codepen.io/krames12/pen/egdwNp)
+
 ### Day 5: January 15, 2017
 
 **Today's Progress**: Learned how to make an animated hamburger menu as well as a responsive navigation. Also learned a bit of SASS implementation as well.
