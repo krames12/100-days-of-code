@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 12: January 24, 2017
+
+**Today's Progress**: Today's goal was to work on a "projects like this" widget that is based on the category of the project the user is currently viewing. After a lot of frustration, I was able to at least get the projects that have the same category as the project currently being viewed.
+
+**Thoughts**: I was under the impression that I was sending in a variable to be manipulated and used when using the partial that I created for this "projects like this" section. It still goes based off of the `page` information that is given by Grav regardless it seems. I also learned, far too late and it should have been obvious way sooner, how to enable debugging in ths CMS. Once I figured that out it didn't take too long before I was able to access the data I wanted. This was a very frustrating day, however I did learn that looking for a way to debug when in an unfamiliar environment is kind of important.
+
+**Links to work:** [Twitch VoD](https://www.twitch.tv/bsb_krames/v/116991685)
+
 ## Day 11: January 23, 2017
 
 **Today's Progress**: Was able to get the project category navigation working fully, transitioning to and looking nicely on mobile and the ability to filter which category of projects are shown with the default being the application projects.
