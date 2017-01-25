@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 10: January 21, 2017
+
+**Today's Progress**: Finishing touches were put on the portfolio responsive navigation and I was able to get all of the 'portfolio projects' on to the home page with a class of the project type (application, 3d, design).
+
+**Thoughts**: Figuring out how to use Twig, a PHP template language, was a very interesting experience but was made a lot easier by using Grav's documentation and looking at how the standard blog page was setup. Being able to look over some example code and translate that to your own project is always a good skill to have. I feel that by doing this portfolio theme project it has taught me a lot about how I learn best (which is having an audience in streaming) and how to adapt to a new environment.
+
+**Links to work:** [Twitch VoD Part 1/2](https://www.twitch.tv/bsb_krames/v/116311782) | [Twitch VoD Part 2/2](https://www.twitch.tv/bsb_krames/v/116324265)
+
 ## Day 9: January 19, 2017
+
+**Links to work:** ['convenient-currency' commit history](https://github.com/krames12/convenient-currency/commits/master)
 
 **Today's Progress**: Finished 'Convenient Currency' up with a bit of styling to make it less default and feel a bit more comforting to look at.
 
