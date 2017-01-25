@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 11: January 23, 2017
+
+**Today's Progress**: Was able to get the project category navigation working fully, transitioning to and looking nicely on mobile and the ability to filter which category of projects are shown with the default being the application projects.
+
+**Thoughts**: I thought this would be a lot harder than it was. Not to say that it was easy, but I realized I was over thinking just a tad and already knew how to add all the event listeners on the project navigation as well as toggling which categories were showing or not. These are some things that I feel are fundamental to a lot of modern websites and a skill that is necessary in the industry no matter how simple or difficult it may be.
+
+**Links to work:** [Twitch VoD](https://www.twitch.tv/bsb_krames/v/116773537)
+
 ## Day 10: January 21, 2017
 
 **Today's Progress**: Finishing touches were put on the portfolio responsive navigation and I was able to get all of the 'portfolio projects' on to the home page with a class of the project type (application, 3d, design).
