@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-## Day 8, January 18, 2017
+## Day 9: January 19, 2017
+
+**Today's Progress**: Finished 'Convenient Currency' up with a bit of styling to make it less default and feel a bit more comforting to look at.
+
+**Thoughts**: I didn't have a whole lot of time today, but I did find enough time to finish this project. I would have put a bit more effort into the final stretch of it, but my care only lasted a couple days to be completely honest. This is it's final form as of now, but I might update it in the future.
+
+**Links to work:** ['convenient-currency' commit history](https://github.com/krames12/convenient-currency/commits/master)
+
+## Day 8: January 18, 2017
 
 **Today's Progress**: Worked on some styling for the currency project I've been working on as a starter project for this endeavour.
 
