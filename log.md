@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 13: January 25, 2017
+
+**Today's Progress**: Fixed a couple bugs in the portfolio theme, got most of the information I needed from the similar projects widget and added a section in the base for a demo reel and resume link.
+
+**Thoughts**: I was planning on streaming for another 45 minutes or so but everything I wanted to accomplish took a lot less time than I initially thought. The similar projects widget was pretty much done except for a bit of spacing and responsive feel. The only thing absolutely major that needs done is putting the content in the About Me page and figuring out exactly how the project templates are going to be set up. I'm still wondering how I want to organize the tools and whatnot used in a project. I believe adding them to the taxonomy under a new subject or two, like `software` or `tools` in the header and having the page render that down. Either way, it was a productive morning of cleanup and figuring a couple small things out. 
+
+**Link to work:** [Twitch VoD](https://www.twitch.tv/bsb_krames/v/117451295)
+
 ## Day 12: January 24, 2017
 
 **Today's Progress**: Today's goal was to work on a "projects like this" widget that is based on the category of the project the user is currently viewing. After a lot of frustration, I was able to at least get the projects that have the same category as the project currently being viewed.
