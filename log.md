@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-## Day 13: January 25, 2017
+## Day 14: January 27, 2017
+
+**Today's Progress**: Added a "Project Meta Data" widget to pull tools used, a project link and the client information from the header to display in a side bar. The link is meant to be dynamic depending on if it's a video link or a project re-direct / download. Also fully responsive.
+
+**Thoughts**: I added some data to the taxonomy, which i could probably pull out since I feel I might be mis-using taxonomy in this way, for the client, tools and link for the project. My intention for the link initially was to have it have different behaviour in the `project-video` template as opposed to the `project-image` template. I forgot that design decision when I started coding and implemented it in with the `project-image` template with the "Download Project" button. I ended up making it look pretty neat, but realized in the last 10 minutes or so that I wanted it to have that different behiaviour. The task for tomorrow is to get that working properly and from here on out I should probably remember and stick to my overall design decisions. Since I was streaming and my client was watching giving feedback, we did get distracted on color for a good 15 minutes or so. Things to remember for the future, that's for sure.
+
+**Link to work:** [Twitch VoD](https://www.twitch.tv/videos/117695374)
+
+## Day 13: January 26, 2017
 
 **Today's Progress**: Fixed a couple bugs in the portfolio theme, got most of the information I needed from the similar projects widget and added a section in the base for a demo reel and resume link.
 
